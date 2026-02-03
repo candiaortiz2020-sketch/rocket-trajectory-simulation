@@ -32,3 +32,8 @@ The motion is computed by numerically integrating the equations of motion over t
 
 ## Author
 Student with interest in physics, aerospace engineering, and scientific computing.
+
+## Aerodynamic Effects
+Air resistance was included using a quadratic drag model. 
+When drag is considered, the rocket reaches a lower maximum altitude compared to the ideal case.
+This demonstrates how aerodynamic forces significantly affect real rocket trajectories.
