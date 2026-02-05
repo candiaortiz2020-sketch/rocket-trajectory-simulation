@@ -60,3 +60,13 @@ This demonstrates how aerodynamic forces play a crucial role in realistic aerosp
 The maximum height (apogee) and the time required to reach it were computed for both models.
 The results show that aerodynamic drag not only reduces the maximum altitude but also affects the time to reach the apogee.
 This analysis demonstrates how energy losses due to air resistance influence real rocket trajectories.
+
+---
+
+## Limitations of the Model
+
+This model is intentionally simplified in order to focus on the fundamental physical principles of rocket motion. Several assumptions were made to keep the analysis clear and manageable.
+
+The rocket is modeled as a one-dimensional system with purely vertical motion. Its mass is assumed to be constant, and the thrust is simplified rather than derived from a detailed propulsion model. In addition, the aerodynamic drag is represented using a basic quadratic drag equation with a constant drag coefficient.
+
+While these assumptions limit the realism of the simulation, they allow for a clear analysis of how gravity, thrust, and air resistance influence the rocket’s trajectory and apogee. More advanced models could include variable mass, time-dependent thrust, and multi-dimensional motion to better represent real launch conditions.
