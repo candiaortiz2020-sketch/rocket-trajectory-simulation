@@ -12,6 +12,16 @@ By comparing an ideal model with a realistic one, the project highlights the imp
 
 ---
 
+## Project Motivation and Justification
+
+I developed this project to explore the fundamental physical principles behind rocket motion and to understand how simplified models can be used to analyze complex aerospace systems.
+
+The project consists of a numerical simulation of the vertical trajectory of a rocket based on Newton’s second law of motion. The model includes the main forces acting on the rocket: thrust, gravity, and aerodynamic drag. By comparing an ideal case without air resistance to a more realistic case including drag, the simulation highlights how energy losses affect rocket performance.
+
+One of the main objectives of the project is the analysis of the apogee, or maximum altitude reached by the rocket. The results show that including aerodynamic drag significantly reduces the maximum altitude and changes the time required to reach it, emphasizing the importance of realistic physical modeling in aerospace engineering.
+
+Through this project, I strengthened my understanding of classical mechanics, numerical methods, and the connection between physics and engineering applications. This work also motivated me to further explore more advanced topics such as variable mass systems, multi-dimensional motion, and improved propulsion models.
+
 ## Physics Background
 
 The simulation is based on Newton’s second law of motion:
