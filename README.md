@@ -22,6 +22,8 @@ One of the main objectives of the project is the analysis of the apogee, or maxi
 
 Through this project, I strengthened my understanding of classical mechanics, numerical methods, and the connection between physics and engineering applications. This work also motivated me to further explore more advanced topics such as variable mass systems, multi-dimensional motion, and improved propulsion models.
 
+---
+
 ## Physics Background
 
 The simulation is based on Newton’s second law of motion:
