@@ -53,6 +53,8 @@ This demonstrates how aerodynamic forces play a crucial role in realistic aerosp
 - NumPy
 - Matplotlib
 
+---
+
 ## Apogee Analysis
 
 The maximum height (apogee) and the time required to reach it were computed for both models.
