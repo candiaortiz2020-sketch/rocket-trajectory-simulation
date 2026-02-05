@@ -41,9 +41,8 @@ This demonstrates how aerodynamic forces play a crucial role in realistic aerosp
 - NumPy
 - Matplotlib
 
----
+## Apogee Analysis
 
-## Academic Integrity Note
-
-This project was developed as a learning exercise with guidance from educational resources and AI tools.
-All simulations were executed, analyzed, and fully understood by the author.
+The maximum height (apogee) and the time required to reach it were computed for both models.
+The results show that aerodynamic drag not only reduces the maximum altitude but also affects the time to reach the apogee.
+This analysis demonstrates how energy losses due to air resistance influence real rocket trajectories.
